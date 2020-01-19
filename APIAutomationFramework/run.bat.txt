@@ -1,0 +1,2 @@
+cd C:\Users\rakesh.kulam\OneDrive\Rakesh\Automation\Testing\APIAutomationFramework
+mvn clean install
